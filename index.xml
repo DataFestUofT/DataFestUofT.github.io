@@ -22,6 +22,18 @@ To register for the ISSC fill out the form below access the form here.</descript
     </item>
     
     <item>
+      <title>Project Submission</title>
+      <link>/submit.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/submit.html</guid>
+      <description>Project Submission Instructions Your team will submit your project using Github Classroom.
+ Each team member will need an acount on github.com. If you don&#39;t have one then sign up.
+ Visit https://classroom.github.com/g/Io3Edqa7 to accept the group assignment. You will be taken to a screen asking you to accept the group assignment.
+ If you are the first member of your team accepting the group assignment then create a new team using the team name that are using for DataFest.</description>
+    </item>
+    
+    <item>
       <title>Resources</title>
       <link>/resources.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
