@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/archives.html</loc>
+    <loc>/</loc>
+    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/post.html</loc>
+    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/07/winners.en-us.html</loc>
+    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/archives.html</loc>
   </url>
   
   <url>
@@ -16,6 +27,10 @@
   
   <url>
     <loc>/details.html</loc>
+  </url>
+  
+  <url>
+    <loc>/winners.html</loc>
   </url>
   
   <url>
